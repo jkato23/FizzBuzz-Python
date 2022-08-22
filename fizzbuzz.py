@@ -22,3 +22,4 @@ for i in range(numRange + 1):
     numArray.append(i)
 for i in numArray:
     print(i, end=" ")
+print("")
